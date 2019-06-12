@@ -32,7 +32,7 @@ img {
 }
 
 #container amiable {
-  
+  background: linear-gradient(to right, #FFF, #000);
 }
 
 .amiable {
